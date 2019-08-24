@@ -3,21 +3,21 @@
   "version": "0.0.3",
   "private": true,
   "devDependencies": {
-    "concurrently": "3.5.1",
-    "react-scripts": "^1.1.4"
+    "concurrently": "4.1.2",
+    "react-scripts": "^3.1.1"
   },
   "dependencies": {
     "@types/react": "^16.4.16",
-    "autoprefixer-stylus": "0.14.0",
-    "firebase": "^4.10.1",
+    "autoprefixer-stylus": "1.0.0",
+    "firebase": "^6.4.2",
     "prop-types": "^15.6.0",
-    "re-base": "3.2.2",
+    "re-base": "4.0.0",
     "react": "^16.3.0-alpha.1",
     "react-dom": "^16.3.0-alpha.1",
-    "react-router-dom": "^4.2.2",
-    "react-transition-group": "^2.2.1",
-    "serve": "^6.5.8",
-    "stylus": "0.54.5"
+    "react-router-dom": "^5.0.1",
+    "react-transition-group": "^4.2.2",
+    "serve": "^11.1.0",
+    "stylus": "0.54.7"
   },
   "scripts": {
     "dev": "react-scripts start",
